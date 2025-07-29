@@ -1,7 +1,5 @@
 👋 Hi, I’m Sumanth Katari  
-🎯 Data Analyst | Learning Data Engineering. 
-📍 Hyderabad, India  
-
+🎯 Data Analyst | Learning Data Engineering.  
 👀 Interested in data pipelines, BI tools, and AI adoption  
 🌱 Currently learning: Data Engineering (ETL, Airflow, AWS), Power BI, and AI tools  
 💬 Looking to collaborate on data projects and open-source contributions  
